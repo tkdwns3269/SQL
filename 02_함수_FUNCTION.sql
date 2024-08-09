@@ -323,7 +323,7 @@ SELECT LAST_DAY(SYSDATE) FROM DUAL;
     
     [Ç¥Çö¹ý]
     EXTRACT(YEAR FROM DATE) : ¿¬µµ¸¸ ÃßÃâ
-    EXTRACT(MONTH FROM DATE) : ¿ù ¸¸ Ãß­Œ
+    EXTRACT(MONTH FROM DATE) : ¿ù ¸¸ ÃßÃâ
     EXTRACT(DAY FROM DATE) : ÀÏ ¸¸ ÃßÃâ
 */
 
